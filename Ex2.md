@@ -1,4 +1,9 @@
 # EX 2 Data Manipulation Language (DML) Commands and built in functions in SQL
+### DATE: 22.08.2023
+```
+DEVELOPED BY: T S YAMUNAASRI
+REG NO: 212222240117
+```
 ## AIM:
 To create a manager database and execute DML queries using SQL.
 
